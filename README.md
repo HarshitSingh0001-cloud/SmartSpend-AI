@@ -84,3 +84,21 @@ the weights:
   Keep the prompt to aggregated numbers only (don't send raw transaction notes)
   to keep it cheap and privacy-friendly.
 - Category-level monthly comparison chart (currently only total + top driver).
+
+## Screenshots
+
+### Dashboard with AI Insights
+![Dashboard](screenshots/dashboard-with-ai-insights.png)
+
+### AI Spending Analysis
+![AI Analysis](screenshots/ai-insight-analysis-screen.png)
+
+### Transaction Management
+![Transactions](screenshots/transaction-management.png)
+
+### Transaction Management
+![Transactions](screenshots/transaction-management1.png)
+
+### Spending Health Dashboard
+![Health Score](screenshots/spending-health-dashboard.png)
+
